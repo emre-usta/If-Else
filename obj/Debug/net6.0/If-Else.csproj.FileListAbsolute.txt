@@ -1,0 +1,15 @@
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/bin/Debug/net6.0/If-Else
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/bin/Debug/net6.0/If-Else.deps.json
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/bin/Debug/net6.0/If-Else.runtimeconfig.json
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/bin/Debug/net6.0/If-Else.dll
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/bin/Debug/net6.0/If-Else.pdb
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/If-Else.csproj.AssemblyReference.cache
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/If-Else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/If-Else.AssemblyInfoInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/If-Else.AssemblyInfo.cs
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/If-Else.csproj.CoreCompileInputs.cache
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/If-Else.dll
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/refint/If-Else.dll
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/If-Else.pdb
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/If-Else.genruntimeconfig.cache
+/Users/yunusemreusta/Desktop/Pratikler/If-Else/obj/Debug/net6.0/ref/If-Else.dll
